@@ -1,1 +1,1 @@
-this project is part of the "nodejs-studies"
+this project is part of [nodejs-studies](https://github.com/ehoarthurr/nodejs-studies)
